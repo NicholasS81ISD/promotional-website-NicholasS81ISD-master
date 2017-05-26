@@ -34,6 +34,14 @@ li a:hover {
 background-color: #111;
 }
 
+ol.movielist li {
+float:none;
+}
+
+li {
+float: left;
+}
+
 .slideshowimage{
 	width:500px;
 }
